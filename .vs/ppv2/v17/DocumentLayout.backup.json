@@ -45,11 +45,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
               "$type": "Document",
@@ -67,15 +67,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ppv2",
+              "Title": "ppv2.csproj",
               "DocumentMoniker": "C:\\Users\\HIMANSHU\\source\\repos\\ppv2\\ppv2\\ppv2.csproj",
               "RelativeDocumentMoniker": "ppv2\\ppv2.csproj",
               "ToolTip": "C:\\Users\\HIMANSHU\\source\\repos\\ppv2\\ppv2\\ppv2.csproj",
               "RelativeToolTip": "ppv2\\ppv2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T22:18:44.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T22:18:44.089Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "ppv2\\Controllers\\StaffController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:17:21.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T22:17:21.519Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "ppv2\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:53:23.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T21:53:23.117Z"
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "ppv2\\Data\\Migrations\\20250203213028_tags-tasks-staff-models-added.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:30:29.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T21:30:29.094Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "ppv2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T13:53:08.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T13:53:08.14Z"
             }
           ]
         }
