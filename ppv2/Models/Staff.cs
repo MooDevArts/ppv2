@@ -11,4 +11,10 @@ namespace ppv2.Models
         //A Staff can have many Tasks
         public ICollection<Task>? Tasks { get; set; }
     }
+
+    public class StaffDto
+    {
+        public int StaffId { get; set; }
+        public string StaffName { get; set; }
+    }
 }

@@ -16,4 +16,13 @@ namespace ppv2.Models
         //A Task can be associated with many Tags
         public ICollection<Tag>? Tags { get; set; }
     }
+
+    public class TaskDto
+    {
+        public int TaskId { get; set; }
+        public required string TaskName { get; set; }
+        public string TaskDescription { get; set; }
+    }
+
+
 }

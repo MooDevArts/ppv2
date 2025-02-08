@@ -148,3 +148,4 @@ C:\Users\HIMANSHU\source\repos\ppv2\ppv2\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\HIMANSHU\source\repos\ppv2\ppv2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\HIMANSHU\source\repos\ppv2\ppv2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\HIMANSHU\source\repos\ppv2\ppv2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HIMANSHU\source\repos\ppv2\ppv2\obj\Debug\net8.0\ppv2.sourcelink.json
